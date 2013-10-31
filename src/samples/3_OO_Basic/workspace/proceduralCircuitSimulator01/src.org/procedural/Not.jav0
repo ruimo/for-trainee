@@ -1,0 +1,12 @@
+package procedural;
+
+public class Not {
+
+	public static int input(int input) {
+		if (input == 1) return 0;
+		else if (input == 0) return 1;
+		else throw new IllegalArgumentException
+			("íl(=" + input + ")ÇÕÅA0Ç©1Ç≈Ç»ÇØÇÍÇŒÇ»ÇËÇ‹ÇπÇÒÅB");
+	}
+
+}

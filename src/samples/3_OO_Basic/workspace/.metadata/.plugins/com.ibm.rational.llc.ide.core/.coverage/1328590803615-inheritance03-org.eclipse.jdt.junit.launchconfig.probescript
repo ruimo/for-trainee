@@ -1,0 +1,26 @@
+REM unnamed_probe
+PROBE
+REF EXECUTABLEUNIT llc_probe$Probe_0 _executableUnit (Ljava/lang/String;Ljava/lang/String;III)V className,methodName,methodNumber,executableUnitNumber,numPreviousUnits
+REF STATICINITIALIZER llc_probe$Probe_0 _staticInitializer (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V className,classSourceFile,methodNames,methodLineTables
+RULE oo Not * * include
+RULE oo And$1 * * include
+RULE oo OrTest * * include
+RULE oo And * * include
+RULE oo TerminalTest$1 * * include
+RULE oo TerminalTest * * include
+RULE oo Value$2 * * include
+RULE oo Or$1 * * include
+RULE oo TerminalListener * * include
+RULE oo Or * * include
+RULE oo ValueTest * * include
+RULE oo NotTest * * include
+RULE oo Terminal$1 * * include
+RULE oo AndTest * * include
+RULE oo Terminal * * include
+RULE oo Logic * * include
+RULE oo Value$1 * * include
+RULE oo Logic * * include
+RULE oo Value$3 * * include
+RULE oo Not$1 * * include
+RULE oo Value * * include
+RULE * * * * exclude

@@ -1,0 +1,2 @@
+RULE procedural Not * * include
+RULE procedural NotTest * * include

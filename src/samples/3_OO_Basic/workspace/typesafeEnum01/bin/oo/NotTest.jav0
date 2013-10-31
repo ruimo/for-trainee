@@ -1,0 +1,20 @@
+package oo;
+
+import org.junit.Test;
+import static org.hamcrest.core.Is.is;
+import static org.junit.Assert.assertThat;
+
+public class NotTest {
+    @Test public void “ü—Í0‚Åo—Í1‚ğ•Ô‚·() {
+        Not not = new Not();
+        not.setInput(0, Value.ZERO);
+        assertThat(not.getOutput(0), is(Value.ONE));
+    }
+
+    @Test public void “ü—Í1‚Åo—Í0‚ğ•Ô‚·() {
+        // TODO: À‘•‚µ‚Ä‚­‚¾‚³‚¢B
+        Not not = new Not();
+        not.setInput(0, Value.ONE);
+        assertThat(not.getOutput(0), is(Value.ZERO));
+    }
+}

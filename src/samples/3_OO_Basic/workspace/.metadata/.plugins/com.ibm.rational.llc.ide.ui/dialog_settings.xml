@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="360" key="com.ibm.rational.llc.ide.ui.coverage.element.width"/>
+	<item value="148" key="com.ibm.rational.llc.ide.ui.dialog.top"/>
+	<item value="0" key="com.ibm.rational.llc.ide.ui.coverage.group.mode"/>
+	<item value="2" key="com.ibm.rational.llc.ide.ui.coverage.covered.index"/>
+	<item value="100" key="com.ibm.rational.llc.ide.ui.coverage.percentage.width"/>
+	<item value="100" key="com.ibm.rational.llc.ide.ui.coverage.total.width"/>
+	<item value="false" key="com.ibm.rational.llc.ide.ui.process.selected"/>
+	<item value="0" key="com.ibm.rational.llc.ide.ui.coverage.element.index"/>
+	<item value="472" key="com.ibm.rational.llc.ide.ui.dialog.width"/>
+	<item value="false" key="com.ibm.rational.llc.ide.ui.coverage.sort.order"/>
+	<item value="0" key="com.ibm.rational.llc.ide.ui.coverage.sort.column"/>
+	<item value="1" key="com.ibm.rational.llc.ide.ui.coverage.percentage.index"/>
+	<item value="3" key="com.ibm.rational.llc.ide.ui.coverage.total.index"/>
+	<item value="100" key="com.ibm.rational.llc.ide.ui.coverage.covered.width"/>
+	<item value="379" key="com.ibm.rational.llc.ide.ui.dialog.height"/>
+	<item value="404" key="com.ibm.rational.llc.ide.ui.dialog.left"/>
+	<section name="RunCoverageAnalysisWizard">
+		<item value="false" key="com.ibm.rational.llc.ide.ui.internal.report.format"/>
+		<item value="true" key="com.ibm.rational.llc.ide.ui.internal.location"/>
+		<item value="com.ibm.rational.llc.report.swt" key="com.ibm.rational.llc.ide.ui.internal.report.type"/>
+		<list key="com.ibm.rational.llc.ide.ui.report.history.file">
+		</list>
+	</section>
+</section>

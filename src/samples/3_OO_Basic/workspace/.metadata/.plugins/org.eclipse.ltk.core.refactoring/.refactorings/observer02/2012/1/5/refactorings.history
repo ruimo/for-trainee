@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="メソッドの名前を &apos;oo.Terminal.addListener(...)&apos; から &apos;connectTo&apos; に変更します&#x0D;&#x0A;- オリジナル・プロジェクト: &apos;observer02&apos;&#x0D;&#x0A;- オリジナル要素: &apos;oo.Terminal.addListener(...)&apos;&#x0D;&#x0A;- 名前変更済み要素: &apos;oo.Terminal.connectTo(...)&apos;&#x0D;&#x0A;- リファクタリングされた要素の参照を更新" delegate="false" deprecate="false" description="メソッド名 &apos;addListener&apos; を変更します。" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;oo{Terminal.java[Terminal~addListener~QTerminal;" name="connectTo" references="true" stamp="1327987577859" version="1.0"/>
+</session>
